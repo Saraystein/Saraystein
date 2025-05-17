@@ -69,4 +69,5 @@
 
 ---
 
-![snake gif](https://github.com/Saraystein/Saraystein/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Saraystein/Saraystein/blob/output/github-contribution-grid-snake.svg)
+
